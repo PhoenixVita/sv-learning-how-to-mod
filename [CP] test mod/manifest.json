@@ -1,0 +1,10 @@
+{
+    "Name": "First mod test",
+    "Author": "Ducky",
+    "Version": "1.0.0",
+    "Description": "Mod test description",
+    "UniqueID": "Ducky.modtest",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+}
+    }	

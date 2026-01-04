@@ -1,0 +1,20 @@
+{
+  "Format": "2.8.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Abigail",
+      "FromFile": "assets/Abigailportrait.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Abigail",
+      "FromFile": "assets/Abigailblack.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "assets/TitleButtonsPink.png"
+    }
+  ]
+}
